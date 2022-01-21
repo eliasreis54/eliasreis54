@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
 ---
 
-My name is Elias, and I am Software Engineer at [Very Good Ventures](https://verygood.ventures)
+My name is Elias Reis,
 
 - 🔭  I’m currently working on [Very Good Ventures](https://github.com/VGVentures)
 - 👯  I’m looking to collaborate on [Flutter](https://flutter.dev)
 - 💬  Ask me about building Flutter apps
 - ⚡ Fun fact: I like to play guitar
-- 📫 How to reach me: eliasreis54@gmail.com | @eliasreis54
+- 📫 How to reach me: eliasreis54@gmail.com | [@eliasreis54](https://twitter.com/EliasReis54)
 
 [![Elias's Github Stats](https://github-readme-stats.vercel.app/api?username=eliasreis54&count_private=true&theme=default&show_icons=true)](https://github.com/eliasreis54)
 
