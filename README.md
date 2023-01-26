@@ -35,7 +35,7 @@ My name is Elias Reis,
 - 👯  I’m looking to collaborate on [Flutter](https://flutter.dev)
 - 💬  Ask me about building Flutter apps
 - 📫 How to reach me: eliasreis54@gmail.com | [@eliasreis54](https://twitter.com/EliasReis54)
-- ⚡ Fun fact: I like to play guitar
+- ⚡ Fun fact: I enjoy playing guitar and I'm taking cooking classes.
 
 
 [![Elias's Github Stats](https://github-readme-stats.vercel.app/api?username=eliasreis54&count_private=true&theme=default&show_icons=true)](https://github.com/eliasreis54)
