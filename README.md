@@ -34,7 +34,7 @@ My name is Elias Reis,
 - 🔭  I’m currently working on [Very Good Ventures](https://github.com/VGVentures)
 - 👯  I’m looking to collaborate on [Flutter](https://flutter.dev)
 - 💬  Ask me about building Flutter apps
-- 📫 How to reach me: eliasreis54@gmail.com | [@eliasreis54](https://twitter.com/EliasReis54)
+- 📫 How to reach me: eliasreis54@gmail.com
 - ⚡ Fun fact: I enjoy playing guitar and I'm taking cooking classes.
 
 
